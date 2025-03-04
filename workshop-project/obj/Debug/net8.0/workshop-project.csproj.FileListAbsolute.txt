@@ -1,0 +1,15 @@
+C:\Users\ASUS\Documents\Software Development\workshop-project\workshop-project\bin\Debug\net8.0\workshop-project.exe
+C:\Users\ASUS\Documents\Software Development\workshop-project\workshop-project\bin\Debug\net8.0\workshop-project.deps.json
+C:\Users\ASUS\Documents\Software Development\workshop-project\workshop-project\bin\Debug\net8.0\workshop-project.runtimeconfig.json
+C:\Users\ASUS\Documents\Software Development\workshop-project\workshop-project\bin\Debug\net8.0\workshop-project.dll
+C:\Users\ASUS\Documents\Software Development\workshop-project\workshop-project\bin\Debug\net8.0\workshop-project.pdb
+C:\Users\ASUS\Documents\Software Development\workshop-project\workshop-project\obj\Debug\net8.0\workshop-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\Software Development\workshop-project\workshop-project\obj\Debug\net8.0\workshop-project.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\Software Development\workshop-project\workshop-project\obj\Debug\net8.0\workshop-project.AssemblyInfo.cs
+C:\Users\ASUS\Documents\Software Development\workshop-project\workshop-project\obj\Debug\net8.0\workshop-project.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Software Development\workshop-project\workshop-project\obj\Debug\net8.0\workshop-project.sourcelink.json
+C:\Users\ASUS\Documents\Software Development\workshop-project\workshop-project\obj\Debug\net8.0\workshop-project.dll
+C:\Users\ASUS\Documents\Software Development\workshop-project\workshop-project\obj\Debug\net8.0\refint\workshop-project.dll
+C:\Users\ASUS\Documents\Software Development\workshop-project\workshop-project\obj\Debug\net8.0\workshop-project.pdb
+C:\Users\ASUS\Documents\Software Development\workshop-project\workshop-project\obj\Debug\net8.0\workshop-project.genruntimeconfig.cache
+C:\Users\ASUS\Documents\Software Development\workshop-project\workshop-project\obj\Debug\net8.0\ref\workshop-project.dll
